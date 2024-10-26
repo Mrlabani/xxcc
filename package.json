@@ -1,0 +1,9 @@
+{
+  "name": "my-vercel-project",
+  "version": "1.0.0",
+  "main": "api/terabox.js",
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "dependencies": {}
+}
